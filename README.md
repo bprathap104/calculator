@@ -10,7 +10,7 @@ $ calc --add a b
 ```
 Subtract 2 variables
 ```
-$ calc --sub a b
+$ calc --subtract a b
 ```
 Multiply 2 variables
 ```

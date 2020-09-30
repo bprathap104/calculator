@@ -4,8 +4,8 @@ with open('README.md', 'r') as f:
     long_description = f.read()
 
 setup(
-    name='calc',
-    version='0.1.0',
+    name='calculator-pythonista',
+    version='0.1.2',
     author='Saran',
     author_email='bprathap104@gmail.com',
     description='A utility for doing arithmetic operations',
